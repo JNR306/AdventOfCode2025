@@ -6,5 +6,7 @@ struct AdventOfCode2025 {
     static func main() {
         day1Easy()
         day1Hard()
+        day2Easy()
+        day2Hard()
     }
 }
