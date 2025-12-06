@@ -14,5 +14,7 @@ struct AdventOfCode2025 {
         day4Hard()
         day5Easy()
         day5Hard()
+        day6Easy()
+        day6Hard()
     }
 }
